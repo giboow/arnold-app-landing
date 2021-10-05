@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Navbar from "../component/navbar";
 import Link from "next/link";
-import ReactPlayer from 'react-player';
 
 export default function Home() {
     return (
